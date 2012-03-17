@@ -1,0 +1,6 @@
+*.class
+.DS_Store
+.idea/*
+*.iml
+*.swp
+/target/*
